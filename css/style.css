@@ -21,3 +21,6 @@
         line-height: calc(24 / 14);
         color: var(--black-color);
     }
+.our-team {
+    width: 270; height: 260;
+}
